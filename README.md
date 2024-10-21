@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in ...Making money
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...School
 - 📫 How to reach me ...joe544myn@gmail.com
 
 <!---
